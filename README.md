@@ -5,6 +5,7 @@ Beside that, I'm also an artist, and passionate about creating 😼\
 \
 FR/EN
 
+
 ### Projects
 A few projects can be found on my profile, here's a quick guide around :) \
 \
@@ -14,6 +15,7 @@ A few projects can be found on my profile, here's a quick guide around :) \
 [Projet PFE](https://github.com/Ysaline-Degols-Vinci/projet_pfe_2024) : Our final project, made in two weeks, including the analysis and the presentation. Using Angular, Spring, and MariaDB\
 [Leetcode](https://github.com/Ysaline-Degols-Vinci/leetcode) : my participation to the Leetcode challenges, in Java
 
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 
 
@@ -122,3 +124,8 @@ Linkedin : https://www.linkedin.com/in/ysaline-degols-b0b255383/
 
 
 Thank you for passing by! Have a good day ⭐
+
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRwMzFqdXJ3MXl6OW9mMnBhbmozdjFhcGc2cHNpOTNoaDZsMmFtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YrHFILYNmk2wByofdX/giphy.gif" height="400">
+
