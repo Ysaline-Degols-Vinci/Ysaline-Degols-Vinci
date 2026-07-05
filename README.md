@@ -1,9 +1,8 @@
 ## Hi there! ☀️
 I'm Ysaline, a software developer based in Belgium, near Brussels\
 I recently graduated, and I'm searching for new opportunities to grow my skills!\
-Beside that, I'm also an artist, and passionate about creating 😼\
-\
-FR/EN
+Beside that, I'm also an artist, and passionate about creating 😼
+
 
 
 ### Projects
@@ -14,7 +13,8 @@ A few projects can be found on my profile, here's a quick guide around :) \
 [Aten](https://github.com/Ysaline-Degols-Vinci/Aten) : A game I'm working on alone, using Unity and Inky\
 [Projet PFE](https://github.com/Ysaline-Degols-Vinci/projet_pfe_2024) : Our final project, made in two weeks, including the analysis and the presentation. Using Angular, Spring, and MariaDB\
 [Leetcode](https://github.com/Ysaline-Degols-Vinci/leetcode) : my participation to the Leetcode challenges, in Java\
-[Projet Spring](https://github.com/Ysaline-Degols-Vinci/ProjetSpring) : A school project using Spring microservices
+[Projet Spring](https://github.com/Ysaline-Degols-Vinci/ProjetSpring) : A school project using Spring microservices\
+I also have 2 python projects made for university classes in my pinned!
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
