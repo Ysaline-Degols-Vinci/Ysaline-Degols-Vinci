@@ -13,7 +13,8 @@ A few projects can be found on my profile, here's a quick guide around :) \
 [Bataille Navale](https://github.com/Ysaline-Degols-Vinci/BatailleNavale) : Our first project in Unity for a class, a battleship game\
 [Aten](https://github.com/Ysaline-Degols-Vinci/Aten) : A game I'm working on alone, using Unity and Inky\
 [Projet PFE](https://github.com/Ysaline-Degols-Vinci/projet_pfe_2024) : Our final project, made in two weeks, including the analysis and the presentation. Using Angular, Spring, and MariaDB\
-[Leetcode](https://github.com/Ysaline-Degols-Vinci/leetcode) : my participation to the Leetcode challenges, in Java
+[Leetcode](https://github.com/Ysaline-Degols-Vinci/leetcode) : my participation to the Leetcode challenges, in Java\
+[Projet Spring](https://github.com/Ysaline-Degols-Vinci/ProjetSpring) : A school project using Spring microservices
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
