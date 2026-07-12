@@ -7,14 +7,19 @@ Beside that, I'm also an artist, and passionate about creating 😼
 
 ### Projects
 A few projects can be found on my profile, here's a quick guide around :) \
-\
+
+#### Finished
 [Neko Cafe](https://github.com/Ysaline-Degols-Vinci/NekoCafe) : a little incremental video game made as a school project, in JavaScript, using Phaser. You can find the full project in my pinned!\
 [Bataille Navale](https://github.com/Ysaline-Degols-Vinci/BatailleNavale) : Our first project in Unity for a class, a battleship game\
-[Aten](https://github.com/Ysaline-Degols-Vinci/Aten) : A game I'm working on alone, using Unity and Inky\
 [Projet PFE](https://github.com/Ysaline-Degols-Vinci/projet_pfe_2024) : Our final project, made in two weeks, including the analysis and the presentation. Using Angular, Spring, and MariaDB\
-[Leetcode](https://github.com/Ysaline-Degols-Vinci/leetcode) : my participation to the Leetcode challenges, in Java\
 [Projet Spring](https://github.com/Ysaline-Degols-Vinci/ProjetSpring) : A school project using Spring microservices\
 I also have 2 python projects made for university classes in my pinned!
+
+#### Ongoing
+[Aten](https://github.com/Ysaline-Degols-Vinci/Aten) : A game I'm working on alone, using Unity and Inky\
+[Leetcode](https://github.com/Ysaline-Degols-Vinci/leetcode) : my participation to the Leetcode challenges, in Java\
+[Saute mouton](https://github.com/Ysaline-Degols-Vinci/SauteMouton) : A site I'm making for a card game project with friends. React + Vite. Also working on the digitalization of the cards :)\
+Archive : (currently private) A project in Js and Node.js, serving as a database for my merch
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
