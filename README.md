@@ -18,8 +18,9 @@ I also have 2 python projects made for university classes in my pinned!
 #### Ongoing
 [Aten](https://github.com/Ysaline-Degols-Vinci/Aten) : A game I'm working on alone, using Unity and Inky\
 [Leetcode](https://github.com/Ysaline-Degols-Vinci/leetcode) : my participation to the Leetcode challenges, in Java\
-[Saute mouton](https://github.com/Ysaline-Degols-Vinci/SauteMouton) : A site I'm making for a card game project with friends. React + Vite. Also working on the digitalization of the cards :)\
-Archive : (currently private) A project in Js and Node.js, serving as a database for my merch
+[Saute mouton](https://github.com/Ysaline-Degols-Vinci/SauteMouton) : A site I'm making for a card game project with friends. React + Vite. Also working on the digitalization of the cards, and the marketing :)\
+Archive : (currently private) A project in Js and Node.js, serving as a database for my merch\
+Atria : (private) A project with a team, using React native, expo and Spring framework
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
